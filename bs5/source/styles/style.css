@@ -1,0 +1,19 @@
+.bg-dark {
+    background-color: rgb(10 60 100) !important;
+}
+
+.nav-link {
+    color: cyan;
+}
+
+.navbar-nav .nav-link.active {
+    color: DarkCyan;
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+
+.navbar-toggler {
+    background-color: DarkCyan;
+}
