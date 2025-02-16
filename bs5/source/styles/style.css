@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Monomakh&display=swap');
+
+body {
+    font-family: Monomakh, serif;
+    background: linear-gradient(90deg, #aeff00 0%, #000000 100%);
+}
+
 .bg-dark {
     background-color: rgb(10 60 100) !important;
 }
@@ -16,4 +23,18 @@
 
 .navbar-toggler {
     background-color: DarkCyan;
+}
+
+.sidebar {
+    color: cyan;
+    background: linear-gradient(270deg, #aeff00 0%, #000000 100%);
+}
+
+.card {
+    background: linear-gradient(270deg, #aeff00 0%, #000000 100%);
+}
+
+.card a {
+    text-decoration: none;
+    color: cyan;
 }
